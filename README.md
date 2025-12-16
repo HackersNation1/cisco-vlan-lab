@@ -34,4 +34,4 @@ This project demonstrates the implementation of Virtual LANs (VLANs) to segment 
 
 ## Author
 Ogunleye David  
-Aspiring Network Engineer
+Network Engineer
